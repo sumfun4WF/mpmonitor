@@ -162,7 +162,7 @@ while done==False:
 	try:
 		mp_list=s.get('https://wf.my.com/minigames/marketplace/api/all').json()
 		for x in mp_list['data']:
-			if x[matching].lower()==item.lower() and x['min_cost']*1.05<=budget:
+			if x[matching].lower()==item.lower() and x['min_cost']*1.05<=int(budget):
 				price=x['min_cost']
 				eid=x['entity_id']
 				item_type=x['type']
