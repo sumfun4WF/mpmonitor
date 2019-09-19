@@ -1,5 +1,5 @@
 # Marketplace Monitor
-Python script that automatically buy the item from Warface Marketplace for you when its price is within your budget.
+Python script that automatically buy the item from Warface Marketplace for you when its price is within your budget. Use it wisely and properly.
 
 # Requisites
 - Python
@@ -24,3 +24,27 @@ I will not explain how to set up python environment on your computer, there are 
 - @sumfun4WF for steam login and functions of the bot.
 - @nowaruhub for quality of life improvements.
 - Flowky for insults.
+
+# License
+```
+This project is licensed under the "Anyone But Flowky"
+(ABF) license, described below. No other licenses may apply.
+
+
+------------------------------------------
+The "Anyone But Flowky" license
+------------------------------------------
+
+Do anything you want with this program, with the exceptions listed
+below under "EXCEPTIONS".
+
+In the unlikely event that you happen to make a zillion bucks off of
+this, then good for you; consider buying a homeless person a meal.
+
+EXCEPTIONS
+----------
+
+Flowky (Mehmet_TN
+#4170, that one angry turkish, etc.) may not make use of or
+redistribute this program or any of its derivatives.
+```
