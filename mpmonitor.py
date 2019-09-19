@@ -175,7 +175,7 @@ while done==False:
 				status=s.post('https://wf.my.com/minigames/marketplace/api/buy',data=data_to_buy).json()
 				if status['state']=='Success':
 					done=True
-					print ('Successfully bought ', item, ' for ', min_cost, ' Kredits\n') 
+					print ('Successfully bought ', item, ' for ', x['min_cost'], ' Kredits\n') 
 	except (KeyError,ValueError,TypeError,requests.exceptions.ChunkedEncodingError,json.decoder.JSONDecodeError,requests.exceptions.ConnectionError):
 		login()
 		pass
