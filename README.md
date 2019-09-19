@@ -20,7 +20,7 @@ Since Warface devs are extraordinarily retarded that they put all skins in same 
 I will not explain how to set up python environment on your computer, there are plenty of materials so feel free to google it, then start the script and leave it running.
 
 # Credits
-@seanwlk for my.com user login.
-@sumfun4WF for steam login and functions of the bot.
-@nowaruhub for quality of life improvements.
-Flowky for insults.
+- @seanwlk for my.com user login.
+- @sumfun4WF for steam login and functions of the bot.
+- @nowaruhub for quality of life improvements.
+- Flowky for insults.
